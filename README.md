@@ -50,12 +50,4 @@ I am building a hands-on portfolio to showcase practical skills, labs, and proje
 
 ---
 
-## Next Steps
-- Complete **Security+ study (3–4 days)**  
-- Perform **hands-on Linux & Windows labs**, documenting each lab in the markdown files  
-- Start **AWS labs and projects**, capturing screenshots and architecture diagrams  
-- Update README.md and folder contents as portfolio grows  
-
----
-
 *This portfolio is a work-in-progress. All labs, screenshots, and diagrams will be added as I complete each hands-on project.*
